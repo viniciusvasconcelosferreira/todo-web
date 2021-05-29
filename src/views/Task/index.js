@@ -76,7 +76,7 @@ function Task({match}) {
             })
                 .then(() =>
                     setRedirect(true)
-                );
+                ).catch(() => alert('Já existe uma tarefa no dia e na hora informados.'));
         }
     }
 
