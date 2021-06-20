@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-O cliente Frontend usa a [API](https://github.com/viniciusvasconcelosferreira/todo-api.git) para a comunicação com o banco de dados.
+O cliente Frontend usa a [ToDo API](https://github.com/viniciusvasconcelosferreira/todo-api.git) para a comunicação com o banco de dados.
 
 ```
 # clone the project
